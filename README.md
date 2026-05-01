@@ -1,5 +1,5 @@
 # GANPRM
-The repository for training and analyses code for the paper: Generative adversarial learning explains why imagination feels less real as we grow up by Ataol Burak Ozsu, Nora Petrova, Tessa Dekker & Nadine Dijkstra. ABO, NP contributed to implementation that can be found in this repository and theoretical framing, while all authors contributed to theoretical framing.
+The repository for training and analyses code for the paper: Generative adversarial learning explains why imagination feels less real as we grow up by Ataol Burak Ozsu, Nora Petrova, Tessa Dekker & Nadine Dijkstra. 
 
 The training codes provide a comprehensive guideline to train WGAN with gradient penalty (Arjovsky et al., 2017; Gulrajani et al., 2017) with the training sets CIFAR-10 and CelebA documented separately.
 
